@@ -1,0 +1,4 @@
+name: UberCraft
+version: '${project.version}'
+main: org.rkfsociety.ubercraft.UberCraft
+api-version: 1.20
